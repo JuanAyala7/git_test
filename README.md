@@ -1,2 +1,3 @@
 # git_test
-Hello Odin! This is my first GitHub repo, pushed from my local machine with TheOdinProject!
+My First GitHub repo with TheOdinProject!
+Hello Odin!
